@@ -9,4 +9,5 @@ public class User {
     private String password;
     private Integer age;
     private String address;
+    private String sex2;
 }
